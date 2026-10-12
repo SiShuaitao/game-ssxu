@@ -9,6 +9,7 @@ export function coverGradient(cover: string): string {
 export function categoryColor(category: string): string {
   const map: Record<string, string> = {
     星际神话: '#608cff',
+    星际史诗: '#608CFF',
     文艺仙侠: '#b4d2ff',
     童话魔幻: '#c8b6ff',
     国风武侠: '#c0392b',
